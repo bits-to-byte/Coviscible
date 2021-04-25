@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- new patient layout editText theme. -->
+<style name="NewReminderEditTextTheme" parent="Widget.AppCompat.EditText">
+    <item name="android:paddingLeft">16dp</item>
+    <item name="android:paddingBottom">16dp</item>
+    <item name="android:layout_marginLeft">32dp</item>
+    <item name="android:layout_marginRight">32dp</item>
+</style>
+
+<!-- patient layout textView theme. -->
+<style name="NewReminderTextViewTheme" parent="Widget.AppCompat.TextView">
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginBottom">16dp</item>
+</style>
+
+
+</resources>
