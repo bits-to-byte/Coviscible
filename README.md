@@ -18,18 +18,17 @@ We made smart wearable connected to an Android app, that can help us set reminde
 4. Stay updated about the availability of the medicines and other health services at your local dispensary
 
 ### Design 
+![Design Smart watch](https://user-images.githubusercontent.com/52847415/115989574-abe17600-a5dc-11eb-93f4-f43bb51ad7fb.png)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/oF5Vb8r" data-context="false" ><a href="//imgur.com/a/oF5Vb8r">Coviscible - Design</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Circuit 
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QWxf9VG" data-context="false" ><a href="//imgur.com/a/QWxf9VG">Coviscible</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Coviscible](https://user-images.githubusercontent.com/52847415/115989529-7177d900-a5dc-11eb-9898-793bb965de9e.png)
 
 ### App Documentation
 
-### Work Flow
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/He0lZxr" data-context="false" ><a href="//imgur.com/a/He0lZxr">Coviscible - Workflow</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+### Work Flow
+![dsss](https://user-images.githubusercontent.com/52847415/115989608-cc113500-a5dc-11eb-9457-585ecc21492d.png)
 
 ### Future Work
 
