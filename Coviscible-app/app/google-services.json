@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52572578530",
+    "project_id": "coviscible",
+    "storage_bucket": "coviscible.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52572578530:android:aa3f051e59ec78cebfb4bb",
+        "android_client_info": {
+          "package_name": "com.example.coviscible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52572578530-stmfjr4fl3h4av06u1sd605p05cptm51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqbxxwtVA6aAJ0wGPboFMY6i_wMEi0mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52572578530-stmfjr4fl3h4av06u1sd605p05cptm51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
